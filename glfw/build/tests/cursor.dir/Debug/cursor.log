@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/Samuel Chen/Desktop/Winter2021/CS180/Project/glfw-3.3.3/tests/CMakeLists.txt
+  cursor.c
+  glad_gl.c
+  Generating Code...
+  cursor.vcxproj -> C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\cursor.exe

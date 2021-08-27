@@ -1,0 +1,10 @@
+^C:\USERS\SAMUEL CHEN\DESKTOP\WINTER2021\CS180\PROJECT\GLFW-3.3.3\CMAKELISTS.TXT
+setlocal
+"C:\Users\Samuel Chen\Downloads\cmake-3.20.0-rc4-windows-x86_64\bin\cmake.exe" "-SC:/Users/Samuel Chen/Desktop/Winter2021/CS180/Project/glfw-3.3.3" "-BC:/Users/Samuel Chen/Desktop/Winter2021/CS180/Project/glfw-3.3.3/build_alt" --check-stamp-file "C:/Users/Samuel Chen/Desktop/Winter2021/CS180/Project/glfw-3.3.3/build_alt/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

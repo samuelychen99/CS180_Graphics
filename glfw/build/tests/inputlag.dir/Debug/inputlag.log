@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/Samuel Chen/Desktop/Winter2021/CS180/Project/glfw-3.3.3/tests/CMakeLists.txt
+  inputlag.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  inputlag.vcxproj -> C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\inputlag.exe

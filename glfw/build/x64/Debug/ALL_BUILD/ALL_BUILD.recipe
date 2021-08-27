@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\examples\Debug\boing.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\clipboard.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\cursor.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\empty.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\events.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\gamma.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\examples\Debug\gears.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\glfwinfo.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\examples\Debug\heightmap.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\icon.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\iconify.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\inputlag.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\joysticks.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\monitors.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\msaa.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\examples\Debug\offscreen.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\opacity.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\examples\Debug\particles.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\reopen.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\examples\Debug\sharing.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\examples\Debug\simple.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\examples\Debug\splitview.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\tearing.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\threads.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\timeout.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\title.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\triangle-vulkan.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\examples\Debug\wave.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\tests\Debug\windows.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Samuel Chen\Desktop\Winter2021\CS180\Project\glfw-3.3.3\build_alt\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
